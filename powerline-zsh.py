@@ -54,8 +54,8 @@ class Powerline:
             'separator_thin': '\u2B81'
         },
         'default': {
-            'separator': '⮀',
-            'separator_thin': '⮁'
+            'separator': '',
+            'separator_thin': ''
         }
     }
     LSQESCRSQ = '\\[\\e%s\\]'
